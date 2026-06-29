@@ -1,4 +1,4 @@
-# vekonet�
+# vekonet
 
 A collection of self-written hacking and information security tools in one place.
 
@@ -12,8 +12,8 @@ bash ncscr.sh
 ```
 
 ## Features
-- Port scanner — scans all ports on target IP
-- Banner grabbing — checks service version on specific port
+- Port scanner - scans all ports on target IP
+- Banner grabbing - checks service version on specific port
 - Results saved to file with date
 
 ## Coming soon
